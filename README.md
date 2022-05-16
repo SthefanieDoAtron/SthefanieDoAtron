@@ -1,8 +1,8 @@
 - 👋 Oi, sou SthefanieDoAtron
 - 👀 tenho interresse em caminhão.
 - 🌱 Sou estudante no momento.
-- 💞️ Meu sonho é se tornar motorista...
-- 📫 Amo minha familía.
+- 💞️ Amo minha familía;
+- 📫 Meu sonho é me tornar motorista de caminhão.
 
 <!---
 SthefanieDoAtron/SthefanieDoAtron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
