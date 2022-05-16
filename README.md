@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SthefanieDoAtron
-- 👀 I’m interested in Caminhão
-- 🌱 I’m currently learning estudando
-- 💞️ I’m looking to collaate on motorista
-- 📫 How to reach me realizar o sonho
+- 👋 Oi, sou SthefanieDoAtron
+- 👀 tenho interresse em caminhão.
+- 🌱 Sou estudante no momento.
+- 💞️ Meu sonho é se tornar motorista...
+- 📫 Amo minha familía.
 
 <!---
 SthefanieDoAtron/SthefanieDoAtron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
